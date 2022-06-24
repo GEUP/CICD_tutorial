@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def index():
-    return "version 1"
+    return "version 2"
